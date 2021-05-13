@@ -1,0 +1,47 @@
+Finished calculating probabilities: 
+
+Non-Spam-Conditional-Probabilities (first element is p(class)): 
+[0.7425742574257426, 0.3576158940397351, 0.5761589403973509, 0.3443708609271523, 0.3973509933774834, 0.33774834437086093, 0.47019867549668876, 0.5033112582781457, 0.3509933774834437, 0.24503311258278146, 0.2913907284768212, 0.5827814569536424, 0.33774834437086093]
+Spam-Conditional-Probabilies (first element is p(class)): 
+[0.25742574257425743, 0.660377358490566, 0.5849056603773585, 0.4528301886792453, 0.6037735849056604, 0.49056603773584906, 0.3584905660377358, 0.7735849056603774, 0.7547169811320755, 0.33962264150943394, 0.660377358490566, 0.660377358490566, 0.7735849056603774]
+
+Classifying Test Instance
+SpamProbability: 3.6310682971325237E-6 || NonSpamProbability: 4.574579335479959E-4
+Classified as non-spam
+
+Classifying Test Instance
+SpamProbability: 5.737013161490223E-5 || NonSpamProbability: 4.195642737311986E-5
+Classified as spam
+
+Classifying Test Instance
+SpamProbability: 1.8599635002963178E-4 || NonSpamProbability: 1.28862168939024E-4
+Classified as spam
+
+Classifying Test Instance
+SpamProbability: 6.097638620708584E-6 || NonSpamProbability: 5.970900059679335E-4
+Classified as non-spam
+
+Classifying Test Instance
+SpamProbability: 6.142744481444356E-5 || NonSpamProbability: 9.257237491670752E-5
+Classified as non-spam
+
+Classifying Test Instance
+SpamProbability: 5.915235426576044E-5 || NonSpamProbability: 4.640987177572139E-5
+Classified as spam
+
+Classifying Test Instance
+SpamProbability: 4.0777115793391856E-6 || NonSpamProbability: 3.269186174049224E-4
+Classified as non-spam
+
+Classifying Test Instance
+SpamProbability: 6.45907492855003E-5 || NonSpamProbability: 3.911142360702581E-4
+Classified as non-spam
+
+Classifying Test Instance
+SpamProbability: 1.859963500296318E-4 || NonSpamProbability: 3.7936059080179955E-5
+Classified as spam
+
+Classifying Test Instance
+SpamProbability: 2.2559891786918056E-5 || NonSpamProbability: 6.775992308249819E-4
+Classified as non-spam
+
